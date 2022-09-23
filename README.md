@@ -1,3 +1,5 @@
+This Blockchain voting system is my Final Year Project during my study year. Through various resources, I learn to create a voting system that utilizes smart contract to help in conducting the election process. The front-end part is developed using react framework while MySQL database is used to store user's data for authentication process. The system will be running on user's local host machine.
+
 Before starting:
 
 1) Required software:
